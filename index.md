@@ -53,3 +53,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### 点击左下角Choose a theme，就可以进入到主题界面了，选一个喜欢的主题在点击右边绿色的Select theme选择该主题
 ![image](https://user-images.githubusercontent.com/94776341/142974304-f595158e-0e5f-4fe2-a011-7e1f374507d0.png)
 ### 选择了之后就会生成一个自己的网站了，而在网站搜索中输入自己给予的名字就可以找到该网站了
+### 而这个网站是可以修改的，需要 GitHub Pages 项目的主页修改 index.md 文件就可以了
+![image](https://user-images.githubusercontent.com/94776341/142974759-935b0043-1eaa-4b1d-9b96-4358314bd56e.png)
+### 点击最下面的Commit changes就可以保存刚才进行的修改
+![image](https://user-images.githubusercontent.com/94776341/142974854-1a3a9835-513b-4773-9a66-87273506f2b6.png)
+### 就可以看到该网站变为了修改后的文案
