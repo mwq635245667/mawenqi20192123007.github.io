@@ -58,3 +58,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### 点击最下面的Commit changes就可以保存刚才进行的修改
 ![image](https://user-images.githubusercontent.com/94776341/142974854-1a3a9835-513b-4773-9a66-87273506f2b6.png)
 ### 就可以看到该网站变为了修改后的文案
+![image](https://user-images.githubusercontent.com/94776341/142974937-365e9a7e-7b15-42c6-96b7-8182af7a10a6.png)
