@@ -59,3 +59,20 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ![image](https://user-images.githubusercontent.com/94776341/142974854-1a3a9835-513b-4773-9a66-87273506f2b6.png)
 ### 就可以看到该网站变为了修改后的文案
 ![image](https://user-images.githubusercontent.com/94776341/142974937-365e9a7e-7b15-42c6-96b7-8182af7a10a6.png)
+#
+#
+#
+# 开始马文琪的第二个作业：
+## 版本管理功能：
+GitHub版本管理功能基本步骤：
+1.	安装好Git
+2.	打开Git Bash再运行克隆命令
+3.	命名远程库Git remote add
+4.	内容推送到Git push
+5.	远程库获取Git push内容
+6.	拉取远程库到Git pull
+7.	登陆IDea
+8.	打开VCS界面
+9.	将配置的命令复制到VCS
+10.	将远程库内容创建成功
+![image](https://user-images.githubusercontent.com/94776341/145942016-74fdb28c-2410-4b49-995d-d1305342fb75.png)
